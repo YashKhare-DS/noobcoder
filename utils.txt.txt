@@ -1,1 +1,0 @@
-utility function for version 2 of github
